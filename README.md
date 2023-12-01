@@ -1,0 +1,3 @@
+# Blue_Bridge_Cup_Embedded
+Hello Blue_Bridge_Cup_Embedded
+//用来记录蓝桥杯嵌入式比赛练习写的代码
